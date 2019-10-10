@@ -1,0 +1,6 @@
+C:\.NET\.NET_Mogilev_Artsem_Varyvoda\Module1_1\Module1_1\bin\Debug\Module1_1.exe.config
+C:\.NET\.NET_Mogilev_Artsem_Varyvoda\Module1_1\Module1_1\bin\Debug\Module1_1.exe
+C:\.NET\.NET_Mogilev_Artsem_Varyvoda\Module1_1\Module1_1\bin\Debug\Module1_1.pdb
+C:\.NET\.NET_Mogilev_Artsem_Varyvoda\Module1_1\Module1_1\obj\Debug\Module1_1.csprojAssemblyReference.cache
+C:\.NET\.NET_Mogilev_Artsem_Varyvoda\Module1_1\Module1_1\obj\Debug\Module1_1.exe
+C:\.NET\.NET_Mogilev_Artsem_Varyvoda\Module1_1\Module1_1\obj\Debug\Module1_1.pdb
