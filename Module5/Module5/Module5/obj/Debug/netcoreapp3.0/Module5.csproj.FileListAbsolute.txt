@@ -1,0 +1,11 @@
+C:\Users\Artsem_Varyvoda\Desktop\Module5\Module5\Module5\bin\Debug\netcoreapp3.0\Module5.exe
+C:\Users\Artsem_Varyvoda\Desktop\Module5\Module5\Module5\bin\Debug\netcoreapp3.0\Module5.deps.json
+C:\Users\Artsem_Varyvoda\Desktop\Module5\Module5\Module5\bin\Debug\netcoreapp3.0\Module5.runtimeconfig.json
+C:\Users\Artsem_Varyvoda\Desktop\Module5\Module5\Module5\bin\Debug\netcoreapp3.0\Module5.runtimeconfig.dev.json
+C:\Users\Artsem_Varyvoda\Desktop\Module5\Module5\Module5\bin\Debug\netcoreapp3.0\Module5.dll
+C:\Users\Artsem_Varyvoda\Desktop\Module5\Module5\Module5\bin\Debug\netcoreapp3.0\Module5.pdb
+C:\Users\Artsem_Varyvoda\Desktop\Module5\Module5\Module5\obj\Debug\netcoreapp3.0\Module5.csprojAssemblyReference.cache
+C:\Users\Artsem_Varyvoda\Desktop\Module5\Module5\Module5\obj\Debug\netcoreapp3.0\Module5.AssemblyInfoInputs.cache
+C:\Users\Artsem_Varyvoda\Desktop\Module5\Module5\Module5\obj\Debug\netcoreapp3.0\Module5.AssemblyInfo.cs
+C:\Users\Artsem_Varyvoda\Desktop\Module5\Module5\Module5\obj\Debug\netcoreapp3.0\Module5.dll
+C:\Users\Artsem_Varyvoda\Desktop\Module5\Module5\Module5\obj\Debug\netcoreapp3.0\Module5.pdb
